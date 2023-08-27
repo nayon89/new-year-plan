@@ -5,7 +5,7 @@
 
 /* ---------------------banner-part-start-------------------- */
 .banner-container {
-    background-image: url('../new-year/images/banner/banner3.png');
+    background-image: url("../new-year/images/banner3.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 1008px;
