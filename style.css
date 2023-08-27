@@ -114,3 +114,22 @@
 }
 
 /* ---------------------plan-part-end-------------------- */
+/* ---------------------mindset-part-start-------------------- */
+.mindset-container{
+    background-image: url('./images/gradient1.png'), url('./images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.mindset-container h2{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    width: 450px;
+    margin: 25px 0;
+}
+
+
+/* ---------------------mindset-part-end-------------------- */
