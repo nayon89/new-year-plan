@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------------------banner-part-start-------------------- */
+.banner-container{
+    background-image: url('../new-year/images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.banner-info{
+    width: 400px;
+    text-align: right;
+    padding-right: 300px;
+}
+.banner-info .heading{
+    font-size: 60px;
+    color: white;
+}
+.banner-description{
+    font-size: 16px;
+    color: white;
+    margin: 20px 0;
+}
+.banner-btn{
+    padding: 10px 15px;
+    color: #005FAC;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 16px;
+    border: 0;
+}
+/* ---------------------banner-part-end-------------------- */
+/* ---------------------previous-year-part-start-------------------- */
+
+.previous-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 300px;
+}
+.previous-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 350px;
+}
+
+.info-part h2{
+   font-size: 40px;
+  
+}
+.info-part p{
+   font-size: 16px;
+  margin: 15px 0;
+}
+.info-part ul{
+   margin-left: 15px;
+   list-style-type: '✓';
+   
+}
+.info-part ul li{
+   color:#16D887;
+   font-size: 16px;
+   
+}
+.info-part ul li span{
+   color: black;
+   margin-left: 5px;
+   
+}
+
+/* ---------------------previous-year-part-start-------------------- */
